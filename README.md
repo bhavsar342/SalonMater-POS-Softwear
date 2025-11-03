@@ -45,7 +45,7 @@
 - Multi-branch salon management
 
 ## 👨‍💻 Author  
-### Ayush Panchal  
-**MSc IT | Java Developer**  
-- **linkdin:** https://www.linkedin.com/in/ayush-panchal-3a0b73276/
+### Rudra Bhavsar
+**MCA | Java Developer**  
+- **linkdin:** https://www.linkedin.com/in/rudra-bhavsar-1020b2225/
 
